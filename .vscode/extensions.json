@@ -1,0 +1,6 @@
+/Users/james/Desktop/EcoEye/Google photos/GitHub/Measure_Roofs/mapper.py
+/Users/james/Desktop/EcoEye/Google photos/GitHub/Measure_Roofs/measure.py
+|--images/
+|--<image-1>
+|--<image-2>
+python measure.py --f images/
